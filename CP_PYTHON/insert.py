@@ -1,4 +1,4 @@
-from bd import inclui
+from banco import inclui
 
 """
 Vinicius Prates Altafini RM559183

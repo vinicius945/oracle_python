@@ -1,4 +1,4 @@
-from bd import apaga
+from banco import apaga
 
 """
 Vinicius Prates Altafini RM559183

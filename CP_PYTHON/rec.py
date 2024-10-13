@@ -1,4 +1,4 @@
-from bd import recupera
+from CP_PYTHON.banco import recupera
 
 """
 Vinicius Prates Altafini RM559183

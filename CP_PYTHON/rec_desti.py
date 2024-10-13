@@ -1,4 +1,4 @@
-from bd import recupera_destinatario
+from banco import recupera_destinatario
 
 """
 Vinicius Prates Altafini RM559183

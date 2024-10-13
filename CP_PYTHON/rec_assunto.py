@@ -1,4 +1,4 @@
-from bd import recupera_assunto
+from banco import recupera_assunto
 
 """
 Vinicius Prates Altafini RM559183

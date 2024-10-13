@@ -1,4 +1,4 @@
-from bd import altera
+from banco import altera
 
 """
 Vinicius Prates Altafini RM559183
