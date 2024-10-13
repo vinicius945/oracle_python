@@ -6,6 +6,6 @@ Enzo Dias Alfaia Mendes RM 558438
 Enzo Prado Soddano RM 557937
 """
 
-apaga(77)  
+apaga(155)  
 
 print("Mensagem apagada com sucesso.")
